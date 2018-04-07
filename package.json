@@ -1,10 +1,10 @@
 {
   "name": "zzh-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "this is vue cli",
-  "main": "./bin/cli.js",
+  "main": "./bin/zzh.js",
   "bin": {
-    "mirror": "./bin/cli.js"
+    "zzh": "./bin/zzh.js"
   },
   "files": [
     "bin",
